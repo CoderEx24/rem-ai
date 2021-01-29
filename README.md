@@ -5,6 +5,7 @@ it should handle the diagnosis
 
 ### How to use
 run the following
+
 ```
 $ chmod +x build.sh
 $ ./build.sh
